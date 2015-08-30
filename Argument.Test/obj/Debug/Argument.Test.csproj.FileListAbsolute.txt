@@ -1,0 +1,15 @@
+D:\DEV\csharp-argument\Argument.Test\obj\Debug\Argument.Test.csprojResolveAssemblyReference.cache
+D:\DEV\csharp-argument\Argument.Test\bin\Debug\Argument.Test.dll
+D:\DEV\csharp-argument\Argument.Test\bin\Debug\Argument.Test.pdb
+D:\DEV\csharp-argument\Argument.Test\bin\Debug\Argument.dll
+D:\DEV\csharp-argument\Argument.Test\bin\Debug\FluentAssertions.Core.dll
+D:\DEV\csharp-argument\Argument.Test\bin\Debug\FluentAssertions.dll
+D:\DEV\csharp-argument\Argument.Test\bin\Debug\nunit.framework.dll
+D:\DEV\csharp-argument\Argument.Test\bin\Debug\Argument.pdb
+D:\DEV\csharp-argument\Argument.Test\bin\Debug\FluentAssertions.pdb
+D:\DEV\csharp-argument\Argument.Test\bin\Debug\FluentAssertions.xml
+D:\DEV\csharp-argument\Argument.Test\bin\Debug\FluentAssertions.Core.pdb
+D:\DEV\csharp-argument\Argument.Test\bin\Debug\FluentAssertions.Core.xml
+D:\DEV\csharp-argument\Argument.Test\bin\Debug\nunit.framework.xml
+D:\DEV\csharp-argument\Argument.Test\obj\Debug\Argument.Test.dll
+D:\DEV\csharp-argument\Argument.Test\obj\Debug\Argument.Test.pdb

@@ -1,0 +1,8 @@
+language: csharp
+solution: Argument/Argument.sln
+before_install:
+  - sudo apt-get install nunit-console
+before_script:
+  - nuget restore Argument/Argument.sln
+after_script:
+  - nunit-console Argument.Test/bin/Release/Argument.Test.dll

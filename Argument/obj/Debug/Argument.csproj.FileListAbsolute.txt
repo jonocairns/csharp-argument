@@ -1,0 +1,5 @@
+D:\DEV\csharp-argument\Argument\obj\Debug\Argument.csprojResolveAssemblyReference.cache
+D:\DEV\csharp-argument\Argument\bin\Debug\Argument.dll
+D:\DEV\csharp-argument\Argument\bin\Debug\Argument.pdb
+D:\DEV\csharp-argument\Argument\obj\Debug\Argument.dll
+D:\DEV\csharp-argument\Argument\obj\Debug\Argument.pdb
