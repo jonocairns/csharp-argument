@@ -1,6 +1,5 @@
 language: csharp
 solution: Argument/Argument.sln
-sudo: false
 before_install:
   - sudo apt-get install nunit-console
 before_script:
